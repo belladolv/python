@@ -8,3 +8,16 @@ if media >= 7:
     print("Bom aproveitamento!")
 else:
     print("Não teve um bom aproveitamento.")
+
+Qual o nome do aluno? 
+izabella
+Digite a primeira nota: 
+8
+Digite a segunda nota: 
+7
+A média de izabella é 7.50.
+Bom aproveitamento!
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
