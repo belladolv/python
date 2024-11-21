@@ -19,3 +19,14 @@ situacao = Situacao(media)
 
 print(f"A média do aluno é: {media:.2f}")
 print(f"Situação do aluno: {situacao}")
+
+Digite a primeira nota: 
+10
+Digite a segunda nota: 
+9
+A média do aluno é: 9.50
+Situação do aluno: APROVADO
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
