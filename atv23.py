@@ -11,3 +11,16 @@ else:
 
 valor_com_desconto = valor_compras * (1 - desconto)
 print(f"Valor com desconto: R${valor_com_desconto:.2f}")
+
+Qual o seu nome? 
+bella
+Qual o seu sexo (M/F)? 
+f
+Qual o valor das suas compras? R$
+700
+Você é mulher, então o desconto é de 13%.
+Valor com desconto: R$609.00
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
