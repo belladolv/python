@@ -7,3 +7,12 @@ if idade >= 18:
     print("Você pode votar!")
 else:
     print("Você não pode votar ainda.")
+
+Qual o seu ano de nascimento? 
+2007
+Sua idade é 17 anos.
+Você não pode votar ainda.
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
