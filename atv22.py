@@ -8,3 +8,11 @@ elif idade > 18:
     print(f"Você já deveria ter se alistado há {idade - 18} anos.")
 else:
     print("Você deve se alistar este ano.")
+
+Digite o seu ano de nascimento: 
+2006
+Você deve se alistar este ano.
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
